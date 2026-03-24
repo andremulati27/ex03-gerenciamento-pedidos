@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GerenciamentodePedidos.iml" filepath="$PROJECT_DIR$/.idea/GerenciamentodePedidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GerenciamentodePedidos/GerenciamentodePedidos.iml" filepath="$PROJECT_DIR$/GerenciamentodePedidos/GerenciamentodePedidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ex03-gerenciamento-pedidos.iml" filepath="$PROJECT_DIR$/.idea/ex03-gerenciamento-pedidos.iml" />
     </modules>
   </component>
 </project>
